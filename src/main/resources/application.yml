@@ -1,0 +1,8 @@
+---
+atm:
+  denominations:
+    allowedCurrencies:
+      - 1
+      - 5
+      - 10
+      - 20
